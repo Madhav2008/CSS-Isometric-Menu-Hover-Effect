@@ -43,7 +43,7 @@ ul li a {
     letter-spacing: 0.05em;
     transition: 0.5s;
     height: 100%;
-    background-color: #3e3f46;
+    background-color: #2e3f46;
     transform-origin: right;
     transform: skewY(45deg);
 }
