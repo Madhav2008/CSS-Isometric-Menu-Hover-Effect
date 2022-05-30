@@ -49,7 +49,7 @@ ul li::before {
 }
 
 ul li:hover::before {
-    background: #2982b9;
+    background: #1f5378;
 }
 
 ul li::after {
