@@ -38,7 +38,7 @@ ul li::before {
     transform-origin: right;
     transform: skewY(45deg);
     transition: 0.5s;
-}
+}ul li::after
 
 ul li a {
     text-decoration: none;
