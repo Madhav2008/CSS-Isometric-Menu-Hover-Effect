@@ -44,6 +44,7 @@ ul li a {
     transition: 0.5s;
     height: 100%;
     background-color: #d00;
+    transform-origin: right;
 }
 
 ul li:hover a {
