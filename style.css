@@ -36,4 +36,4 @@ ul li a {
     transition: 0.5s;
 }
 
-ul li:hover {}
+ul li:hover a {}
