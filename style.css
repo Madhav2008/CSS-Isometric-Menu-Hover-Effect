@@ -27,7 +27,7 @@ ul li {
     background: #3e3f46;
     padding: 15px;
     z-index: var(--i);
-}
+}ul li:hover{}
 
 ul li::before {
     content: '';
