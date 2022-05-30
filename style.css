@@ -18,7 +18,6 @@ body {
 ul {
     position: relative;
     transform: skewY(-15deg);
-    transition: 0.5s;
 }
 
 ul li {
