@@ -17,7 +17,7 @@ body {
 
 ul {
     position: relative;
-    transform: skewY(-15deg);
+    transform: skewY(15deg);
 }
 
 ul li {
