@@ -48,7 +48,9 @@ ul li::before {
     transition: 0.5s;
 }
 
-ul li:hover::before {}
+ul li:hover::before {
+    background: ;
+}
 
 ul li::after {
     content: '';
