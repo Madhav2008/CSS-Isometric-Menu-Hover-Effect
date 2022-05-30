@@ -40,7 +40,7 @@ ul li::before {
     transition: 0.5s;
 }
 
-ul li::after {}
+ul li::after {content: '';}
 
 ul li a {
     text-decoration: none;
