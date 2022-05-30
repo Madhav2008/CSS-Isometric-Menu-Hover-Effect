@@ -32,7 +32,7 @@ ul li {
 
 ul li:hover {
     background: #33a3ee;
-    transform: translateX();
+    transform: translateX(-50px);
 }
 
 ul li::before {
