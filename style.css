@@ -25,6 +25,7 @@ ul li {
     width: 200px;
     background: #3e3f46;
     padding: 15px;
+    z-index: var(--i);
 }
 
 ul li::before {
