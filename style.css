@@ -22,5 +22,6 @@ ul {
 ul li {
     position: relative;
     list-style: none;
-    width: 200px;background: #3e3f46;
+    width: 200px;
+    background: #3e3f46;
 }
