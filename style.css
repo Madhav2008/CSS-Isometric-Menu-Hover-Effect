@@ -45,7 +45,7 @@ ul li a {
     height: 100%;
     background-color: #d00;
     transform-origin: right;
-    transform: skewY();
+    transform: skewY(45deg);
 }
 
 ul li:hover a {
