@@ -49,6 +49,7 @@ ul li::after {
     height: 40px;
     background: #f00;
     transform-origin: bottom;
+    transform: skewY(45deg);
 }
 
 ul li a {
