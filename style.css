@@ -18,6 +18,7 @@ body {
 ul {
     position: relative;
     transform: skewY(-15deg);
+    transition: 0.5s;
 }
 
 ul li {
@@ -29,7 +30,9 @@ ul li {
     z-index: var(--i);
 }
 
-ul li:hover {}
+ul li:hover {
+    background: #33a3ee;
+}
 
 ul li::before {
     content: '';
