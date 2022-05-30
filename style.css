@@ -80,4 +80,4 @@ ul li a {
 
 ul li:hover a {
     color: #fff;
-}
+}ul li:last-child::after
