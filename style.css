@@ -46,6 +46,7 @@ ul li a {
     background-color: #2e3133;
     transform-origin: right;
     transform: skewY(45deg);
+    transition: 0.5s;
 }
 
 ul li:hover a {
