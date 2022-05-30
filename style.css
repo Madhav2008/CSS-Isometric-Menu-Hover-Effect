@@ -27,7 +27,7 @@ ul li {
     padding: 15px;
 }
 
-ul li::before {}
+ul li::before {content: '';}
 
 ul li a {
     text-decoration: none;
