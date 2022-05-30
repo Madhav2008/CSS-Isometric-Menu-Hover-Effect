@@ -65,7 +65,9 @@ ul li::after {
     transition: 0.5s;
 }
 
-ul li:hover::after {}
+ul li:hover::after {
+    background: ;
+}
 
 ul li a {
     text-decoration: none;
