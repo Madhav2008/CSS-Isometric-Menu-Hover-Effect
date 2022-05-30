@@ -27,4 +27,6 @@ ul li {
     padding: 15px;
 }
 
-ul li a {text-decoration: none;}
+ul li a {
+    text-decoration: none;
+}
