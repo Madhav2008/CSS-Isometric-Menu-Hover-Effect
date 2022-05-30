@@ -63,7 +63,7 @@ ul li::after {
     transform-origin: bottom;
     transform: skewX(45deg);
     transition: 0.5s;
-}ul li:hover::after
+}ul li:hover::after{}
 
 ul li a {
     text-decoration: none;
