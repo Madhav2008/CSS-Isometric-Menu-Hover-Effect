@@ -43,6 +43,7 @@ ul li::before {
 ul li::after {
     content: '';
     position: absolute;
+    width: 100%;
 }
 
 ul li a {
