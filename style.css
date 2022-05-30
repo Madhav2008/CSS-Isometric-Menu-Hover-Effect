@@ -19,4 +19,4 @@ ul {
     transform: skewY(-15deg);
 }
 
-ul li {}
+ul li {position: relative;}
