@@ -43,7 +43,7 @@ ul li a {
     letter-spacing: 0.05em;
     transition: 0.5s;
     height: 100%;
-    background-color: ;
+    background-color: #d00;
 }
 
 ul li:hover a {
