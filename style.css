@@ -49,7 +49,7 @@ ul li::after {
     height: 40px;
     background: #f00;
     transform-origin: bottom;
-    transform: skewY(45deg);
+    transform: skewX(45deg);
     transition: 0.5s;
 }
 
