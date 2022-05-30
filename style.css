@@ -46,7 +46,9 @@ ul li::before {
     transform-origin: right;
     transform: skewY(45deg);
     transition: 0.5s;
-}ul li:hover::before{}
+}
+
+ul li:hover::before {}
 
 ul li::after {
     content: '';
