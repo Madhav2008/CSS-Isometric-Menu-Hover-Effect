@@ -45,6 +45,7 @@ ul li a {
     height: 100%;
     background-color: #d00;
     transform-origin: right;
+    transform: skewY();
 }
 
 ul li:hover a {
