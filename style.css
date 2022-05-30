@@ -42,6 +42,7 @@ ul li::before {
 
 ul li::after {
     content: '';
+    position: absolute;
 }
 
 ul li a {
