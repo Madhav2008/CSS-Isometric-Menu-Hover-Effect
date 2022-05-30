@@ -36,4 +36,6 @@ ul li a {
     transition: 0.5s;
 }
 
-ul li:hover a {}
+ul li:hover a {
+    color: #fff;
+}
