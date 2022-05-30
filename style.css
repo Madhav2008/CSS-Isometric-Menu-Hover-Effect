@@ -13,7 +13,10 @@ body {
     align-items: center;
     min-height: 100vh;
 }
-ul{
+
+ul {
     position: relative;
     transform: skewY(-15deg);
-}ul li{}
+}
+
+ul li {}
