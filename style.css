@@ -82,4 +82,6 @@ ul li:hover a {
     color: #fff;
 }
 
-ul li:last-child::after {}
+ul li:last-child::after {
+    box-shadow:-100px, 100px, 20px;
+}
