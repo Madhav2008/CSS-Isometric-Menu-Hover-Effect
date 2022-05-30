@@ -50,6 +50,7 @@ ul li::after {
     background: #f00;
     transform-origin: bottom;
     transform: skewY(45deg);
+    transition: 0.5s;
 }
 
 ul li a {
